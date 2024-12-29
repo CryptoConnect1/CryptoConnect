@@ -47,7 +47,7 @@ body {
 .body {
   height: 90vh;
   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
-              url('../img/bgimg.jpeg.jpg') center/cover;
+              url('bgimg.jpeg.jpg') center/cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
